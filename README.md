@@ -1,4 +1,5 @@
 Olá! Sou o Lucas Alvarado Cipriano 
 
-💻 Formado em Gestão de TI
-📖 Estudante de ADS
+- 💻 Formado em Gestão de TI
+- 📖 Estudante de ADS
+- 📝 Trabalho atualmente no setor administrativo
