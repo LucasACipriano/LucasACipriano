@@ -11,4 +11,4 @@ Olá! Sou o Lucas Alvarado Cipriano
 
 ### Contatos
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-alvarado-cipriano-12a500293)
