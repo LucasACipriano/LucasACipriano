@@ -11,10 +11,6 @@ Olá! Sou o Lucas Alvarado Cipriano
 
 ### Contatos
 
-<a href="https://www.linkedin.com/in/lucas-alvarado-cipriano-12a500293" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-alvarado-cipriano-12a500293)
 
-<a href="mailto:lucasalvaradocipriano@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasalvaradocipriano@gmail.com)
